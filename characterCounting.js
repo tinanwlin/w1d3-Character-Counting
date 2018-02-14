@@ -14,5 +14,5 @@ function countLetters(str) {
     return letterCount;
 }
 
-console.log(countLetters("ab b"));
+console.log(countLetters("lighthouse in the house"));
 
